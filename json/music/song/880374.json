@@ -1,0 +1,17 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "cid": "880374",
+        "name": "Speed of Light",
+        "albumCid": "1030",
+        "sourceUrl": "https://res01.hycdn.cn/81d9b453e45ab6c7165bed855ad8ec5a/618016BC/siren/audio/20210323/a0d36c099989090d633065bcd8dabc4a.mp3",
+        "lyricUrl": "https://web.hycdn.cn/siren/lyric/20210325/c23abbd8f37c7858297c428f0862b725.lrc",
+        "mvUrl": null,
+        "mvCoverUrl": null,
+        "artists": [
+            "塞壬唱片-MSR",
+            "DJ Okawari"
+        ]
+    }
+}

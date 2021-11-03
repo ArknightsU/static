@@ -1,0 +1,16 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "cid": "697662",
+        "name": "阴云",
+        "albumCid": "2469",
+        "sourceUrl": "https://res01.hycdn.cn/4eeed40f9cdc3ab0709c42971c8a1361/618017CF/siren/audio/20210323/780c9b666d31173a92aad0aabb6b7635.mp3",
+        "lyricUrl": null,
+        "mvUrl": null,
+        "mvCoverUrl": null,
+        "artists": [
+            "塞壬唱片-MSR"
+        ]
+    }
+}

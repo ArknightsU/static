@@ -1,0 +1,16 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "cid": "514586",
+        "name": "血液",
+        "albumCid": "4527",
+        "sourceUrl": "https://res01.hycdn.cn/9641745a3d44cabdaf01cfa099bcef38/618016C3/siren/audio/20210323/000dfe52eb7d2ef95e1e7cfc862fcdaf.mp3",
+        "lyricUrl": null,
+        "mvUrl": null,
+        "mvCoverUrl": null,
+        "artists": [
+            "塞壬唱片-MSR"
+        ]
+    }
+}

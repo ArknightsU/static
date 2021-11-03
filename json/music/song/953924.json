@@ -1,0 +1,17 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "cid": "953924",
+        "name": "夏浪",
+        "albumCid": "3802",
+        "sourceUrl": "https://res01.hycdn.cn/9c43b350034259dbb9b756e70147a5fb/6180168A/siren/audio/20210323/f503bfcaa69ceae38a1895d7a269e483.mp3",
+        "lyricUrl": null,
+        "mvUrl": null,
+        "mvCoverUrl": null,
+        "artists": [
+            "塞壬唱片-MSR",
+            "横山克"
+        ]
+    }
+}

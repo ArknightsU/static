@@ -1,0 +1,16 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "cid": "232202",
+        "name": "生命流",
+        "albumCid": "4527",
+        "sourceUrl": "https://res01.hycdn.cn/06ef647cf5ebf19651e536d9e1b4e24a/618016D3/siren/audio/20210323/46dfbba04213a8df54cb21c7a4cc8ac8.mp3",
+        "lyricUrl": null,
+        "mvUrl": null,
+        "mvCoverUrl": null,
+        "artists": [
+            "塞壬唱片-MSR"
+        ]
+    }
+}

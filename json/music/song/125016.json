@@ -1,0 +1,16 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "cid": "125016",
+        "name": "37℃",
+        "albumCid": "2469",
+        "sourceUrl": "https://res01.hycdn.cn/4a8a8f67982fa7dc4a8a891f759e75ab/618017D2/siren/audio/20210323/ef20cb7c1a5cbb896d13cb52fb389682.mp3",
+        "lyricUrl": null,
+        "mvUrl": null,
+        "mvCoverUrl": null,
+        "artists": [
+            "塞壬唱片-MSR"
+        ]
+    }
+}

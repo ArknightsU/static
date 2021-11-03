@@ -1,0 +1,17 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "cid": "232200",
+        "name": "春弦",
+        "albumCid": "6678",
+        "sourceUrl": "https://res01.hycdn.cn/132ea9ba82fd79af9d4fcee7a69c364c/618016AB/siren/audio/20210323/969830fd0359e067473b8df8259d1b0a.mp3",
+        "lyricUrl": null,
+        "mvUrl": null,
+        "mvCoverUrl": null,
+        "artists": [
+            "塞壬唱片-MSR",
+            "横山克"
+        ]
+    }
+}

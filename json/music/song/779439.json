@@ -1,0 +1,16 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "cid": "779439",
+        "name": "Immutable",
+        "albumCid": "2465",
+        "sourceUrl": "https://res01.hycdn.cn/b79e58b680d086d503fd02389b19a50c/61801780/siren/audio/20210501/a540c5abdb08b094685f979a42c4e8fe.mp3",
+        "lyricUrl": "https://web.hycdn.cn/siren/lyric/20210508/6d28d26fc5b45e81a97359f93876daad.lrc",
+        "mvUrl": null,
+        "mvCoverUrl": null,
+        "artists": [
+            "塞壬唱片-MSR"
+        ]
+    }
+}

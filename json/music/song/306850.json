@@ -1,0 +1,16 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "cid": "306850",
+        "name": "Voices",
+        "albumCid": "3801",
+        "sourceUrl": "https://res01.hycdn.cn/038b73f50c3448b555f8a55ff0f2610c/61801784/siren/audio/20210429/514ee81d6693849d0f60124d9759c518.mp3",
+        "lyricUrl": null,
+        "mvUrl": null,
+        "mvCoverUrl": null,
+        "artists": [
+            "塞壬唱片-MSR"
+        ]
+    }
+}

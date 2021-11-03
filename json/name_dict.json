@@ -1,0 +1,119 @@
+{
+    "six": {
+        "char_430_fartth": {
+            "appellation": "Fartooth",
+            "kr_name": "파투스",
+            "en_name": "Fartooth",
+            "jp_name": "ファルツース"
+        },
+        "char_1013_chen2": {
+            "appellation": "Ch'en the Holungday",
+            "kr_name": "첸 더 훌롱데이",
+            "en_name": "Ch'en the Holungday",
+            "jp_name": "チェン ザ ホランデー"
+        },
+        "char_479_sleach": {
+            "appellation": "Saileach",
+            "kr_name": "세일라흐",
+            "en_name": "Saileach",
+            "jp_name": "セイラフ"
+        },
+        "char_426_billro": {
+            "appellation": "Carnelian",
+            "kr_name": "카넬리안",
+            "en_name": "Carnelian",
+            "jp_name": "カーネリアン"
+        },
+        "char_1012_skadi2": {
+            "appellation": "Skadi the Corrupting Heart",
+            "kr_name": "스카디 더 커럽팅 하트",
+            "en_name": "Skadi the Corrupting Heart",
+            "jp_name": "スカジ ザ カラップティング ハート"
+        },
+        "char_474_glady": {
+            "appellation": "Gladiia",
+            "kr_name": "글라디아",
+            "en_name": "Gladiia",
+            "jp_name": "グラディア"
+        },
+        "char_437_mizuki": {
+            "appellation": "Mizuki",
+            "kr_name": "미즈키",
+            "en_name": "Mizuki",
+            "jp_name": "みずき"
+        },
+        "char_003_kalts": {
+            "appellation": "Kal'tsit",
+            "kr_name": "켈시",
+            "en_name": "Kal'tsit",
+            "jp_name": "ケルシ"
+        },
+        "char_485_pallas": {
+            "appellation": "Pallas",
+            "kr_name": "팔라스",
+            "en_name": "Pallas",
+            "jp_name": "パラス"
+        }
+    },
+    "five": {
+        "char_475_akafyu": {
+            "appellation": "Akafuyu",
+            "kr_name": "아카후유",
+            "en_name": "Akafuyu",
+            "jp_name": "赤冬"
+        },
+        "char_421_crow": {
+            "appellation": "La Pluma",
+            "kr_name": "라 플루마",
+            "en_name": "La Pluma",
+            "jp_name": "ラ プルマ"
+        },
+        "char_486_takila": {
+            "appellation": "Tequila",
+            "kr_name": "데킬라",
+            "en_name": "Tequila",
+            "jp_name": "テキラ"
+        },
+        "char_473_mberry": {
+            "appellation": "Mulberry",
+            "kr_name": "멀베리",
+            "en_name": "Mulberry",
+            "jp_name": "マルベリー"
+        },
+        "char_431_ashlok": {
+            "appellation": "Ashlock",
+            "kr_name": "애시락",
+            "en_name": "Ashlock",
+            "jp_name": "アッシュロック"
+        },
+        "char_478_kirara": {
+            "appellation": "Kirara",
+            "kr_name": "키라라",
+            "en_name": "Kirara",
+            "jp_name": "キララ"
+        },
+        "char_369_bena": {
+            "appellation": "Bena",
+            "kr_name": "베나",
+            "en_name": "Bena",
+            "jp_name": "ベナ"
+        }
+    },
+    "four": {
+        "char_469_indigo": {
+            "appellation": "Indigo",
+            "kr_name": "인디고",
+            "en_name": "Indigo",
+            "jp_name": "インディゴ"
+        },
+        "char_484_robrta": {
+            "appellation": "Roberta",
+            "kr_name": "로베르타",
+            "en_name": "Roberta",
+            "jp_name": "ロベルタ"
+        }
+    },
+    "three": {},
+    "two": {},
+    "one": {}
+}
