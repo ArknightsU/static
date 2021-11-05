@@ -18,23 +18,17 @@
             "en_name": "Saileach",
             "jp_name": "セイラフ"
         },
+        "char_420_flamtl": {
+            "appellation": "Flametail",
+            "kr_name": "플레임 테일",
+            "en_name": "Flametail",
+            "jp_name": "フレームテール"
+        },
         "char_426_billro": {
             "appellation": "Carnelian",
             "kr_name": "카넬리안",
             "en_name": "Carnelian",
             "jp_name": "カーネリアン"
-        },
-        "char_1012_skadi2": {
-            "appellation": "Skadi the Corrupting Heart",
-            "kr_name": "스카디 더 커럽팅 하트",
-            "en_name": "Skadi the Corrupting Heart",
-            "jp_name": "スカジ ザ カラップティング ハート"
-        },
-        "char_474_glady": {
-            "appellation": "Gladiia",
-            "kr_name": "글라디아",
-            "en_name": "Gladiia",
-            "jp_name": "グラディア"
         },
         "char_437_mizuki": {
             "appellation": "Mizuki",
@@ -42,25 +36,25 @@
             "en_name": "Mizuki",
             "jp_name": "みずき"
         },
-        "char_003_kalts": {
-            "appellation": "Kal'tsit",
-            "kr_name": "켈시",
-            "en_name": "Kal'tsit",
-            "jp_name": "ケルシ"
-        },
         "char_485_pallas": {
             "appellation": "Pallas",
             "kr_name": "팔라스",
             "en_name": "Pallas",
             "jp_name": "パラス"
+        },
+        "char_1014_nearl2": {
+            "appellation": "Nearl the Radiant Knight",
+            "kr_name": "니어 더 래디언트 나이트",
+            "en_name": "Nearl the Radiant Knight",
+            "jp_name": "ニアーザーラジアントナイト"
         }
     },
     "five": {
-        "char_475_akafyu": {
-            "appellation": "Akafuyu",
-            "kr_name": "아카후유",
-            "en_name": "Akafuyu",
-            "jp_name": "赤冬"
+        "char_496_wildmn": {
+            "appellation": "Wild Mane",
+            "kr_name": "와일드메인",
+            "en_name": "Wild Mane",
+            "jp_name": "ワイルドメーン"
         },
         "char_421_crow": {
             "appellation": "La Pluma",
@@ -74,11 +68,23 @@
             "en_name": "Tequila",
             "jp_name": "テキラ"
         },
+        "char_489_serum": {
+            "appellation": "Corroserum",
+            "kr_name": "커로우세럼",
+            "en_name": "Corroserum",
+            "jp_name": "カローセラム"
+        },
         "char_473_mberry": {
             "appellation": "Mulberry",
             "kr_name": "멀베리",
             "en_name": "Mulberry",
             "jp_name": "マルベリー"
+        },
+        "char_449_glider": {
+            "appellation": "Honeyberry",
+            "kr_name": "허니베리",
+            "en_name": "HoneyBerry",
+            "jp_name": "ハニーベリー"
         },
         "char_431_ashlok": {
             "appellation": "Ashlock",
@@ -106,6 +112,12 @@
             "en_name": "Indigo",
             "jp_name": "インディゴ"
         },
+        "char_4004_pudd": {
+            "appellation": "Pudding",
+            "kr_name": "푸딩",
+            "en_name": "Pudding",
+            "jp_name": "プリン"
+        },
         "char_484_robrta": {
             "appellation": "Roberta",
             "kr_name": "로베르타",
@@ -115,5 +127,12 @@
     },
     "three": {},
     "two": {},
-    "one": {}
+    "one": {
+        "char_4000_jnight": {
+            "appellation": "\"Justice Knight\"",
+            "kr_name": "저스티스 나이트",
+            "en_name": "Justice Knight",
+            "jp_name": "ジャスティスナイト"
+        }
+    }
 }
