@@ -3,6 +3,30 @@
     "msg": "",
     "data": [
         {
+            "cid": "0259",
+            "name": "Under Tides",
+            "coverUrl": "https://web.hycdn.cn/siren/pic/20211104/93284d47f2c6eae228eccacf43ee29a9.jpg",
+            "artistes": [
+                "塞壬唱片-MSR"
+            ]
+        },
+        {
+            "cid": "3800",
+            "name": "Rewinding Breeze",
+            "coverUrl": "https://web.hycdn.cn/siren/pic/20211104/b3060f8d5999ad80bed0aac5083358e4.jpg",
+            "artistes": [
+                "塞壬唱片-MSR"
+            ]
+        },
+        {
+            "cid": "6675",
+            "name": "Field in the Light",
+            "coverUrl": "https://web.hycdn.cn/siren/pic/20211102/90d4ace6ad45af19cecc5b452d45b3ec.png",
+            "artistes": [
+                "塞壬唱片-MSR"
+            ]
+        },
+        {
             "cid": "9391",
             "name": "Radiant",
             "coverUrl": "https://web.hycdn.cn/siren/pic/20211101/733831c7d034b83dc78f783f8748cc65.jpg",
