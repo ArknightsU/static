@@ -1,0 +1,16 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "cid": "779420",
+        "name": "Operation Spectrum",
+        "albumCid": "4522",
+        "sourceUrl": "https://res01.hycdn.cn/51c43a497d979ea35e637bb61ce820c4/618EB409/siren/audio/20211109/d947546d23f93192bdff2cdcda38fd2b.mp3",
+        "lyricUrl": null,
+        "mvUrl": null,
+        "mvCoverUrl": null,
+        "artists": [
+            "塞壬唱片-MSR"
+        ]
+    }
+}

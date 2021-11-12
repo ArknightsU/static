@@ -4,6 +4,54 @@
     "data": {
         "list": [
             {
+                "cid": "697658",
+                "name": "Operation Spectrum Battle Theme",
+                "albumCid": "4522",
+                "artists": [
+                    "塞壬唱片-MSR"
+                ]
+            },
+            {
+                "cid": "048737",
+                "name": "Operation Wild Scales (Instrumental)",
+                "albumCid": "4522",
+                "artists": [
+                    "塞壬唱片-MSR"
+                ]
+            },
+            {
+                "cid": "514574",
+                "name": "Operation Lead Seal (Instrumental)",
+                "albumCid": "4522",
+                "artists": [
+                    "塞壬唱片-MSR"
+                ]
+            },
+            {
+                "cid": "953919",
+                "name": "Operation Wild Scales",
+                "albumCid": "4522",
+                "artists": [
+                    "塞壬唱片-MSR"
+                ]
+            },
+            {
+                "cid": "779420",
+                "name": "Operation Spectrum",
+                "albumCid": "4522",
+                "artists": [
+                    "塞壬唱片-MSR"
+                ]
+            },
+            {
+                "cid": "125001",
+                "name": "Operation Lead Seal",
+                "albumCid": "4522",
+                "artists": [
+                    "塞壬唱片-MSR"
+                ]
+            },
+            {
                 "cid": "461185",
                 "name": "Under Tides",
                 "albumCid": "0259",
