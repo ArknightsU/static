@@ -3,6 +3,22 @@
     "msg": "",
     "data": [
         {
+            "cid": "7786",
+            "name": "Heal the World",
+            "coverUrl": "https://web.hycdn.cn/siren/pic/20211220/e0e71e2da7a92134a054834863684ab5.jpg",
+            "artistes": [
+                "塞壬唱片-MSR"
+            ]
+        },
+        {
+            "cid": "2464",
+            "name": "Operation Pine Soot",
+            "coverUrl": "https://web.hycdn.cn/siren/pic/20211123/75dfd2c13f85e3613a6fc3eaa4917409.jpg",
+            "artistes": [
+                "塞壬唱片-MSR"
+            ]
+        },
+        {
             "cid": "4522",
             "name": "危机合约铅封·光谱·蛮鳞OST",
             "coverUrl": "https://web.hycdn.cn/siren/pic/20211109/e72022facca61c0ddfb0ab82c8e515b7.jpg",

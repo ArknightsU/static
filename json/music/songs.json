@@ -4,6 +4,30 @@
     "data": {
         "list": [
             {
+                "cid": "232291",
+                "name": "Heal the World",
+                "albumCid": "7786",
+                "artists": [
+                    "塞壬唱片-MSR"
+                ]
+            },
+            {
+                "cid": "880365",
+                "name": "Operation Pine Soot",
+                "albumCid": "2464",
+                "artists": [
+                    "塞壬唱片-MSR"
+                ]
+            },
+            {
+                "cid": "514573",
+                "name": "Operation Pine Soot (Instrumental)",
+                "albumCid": "2464",
+                "artists": [
+                    "塞壬唱片-MSR"
+                ]
+            },
+            {
                 "cid": "697658",
                 "name": "Operation Spectrum Battle Theme",
                 "albumCid": "4522",

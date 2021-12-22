@@ -24,11 +24,11 @@
             "en_name": "Flametail",
             "jp_name": "フレームテール"
         },
-        "char_426_billro": {
-            "appellation": "Carnelian",
-            "kr_name": "카넬리안",
-            "en_name": "Carnelian",
-            "jp_name": "カーネリアン"
+        "char_206_gnosis": {
+            "appellation": "Gnosis",
+            "kr_name": "그노시스",
+            "en_name": "Gnosis",
+            "jp_name": "グノーシス"
         },
         "char_437_mizuki": {
             "appellation": "Mizuki",
@@ -74,6 +74,12 @@
             "en_name": "Corroserum",
             "jp_name": "カローセラム"
         },
+        "char_4013_kjera": {
+            "appellation": "Kjera",
+            "kr_name": "쉐라",
+            "en_name": "Kjera",
+            "jp_name": "シェラ"
+        },
         "char_473_mberry": {
             "appellation": "Mulberry",
             "kr_name": "멀베리",
@@ -92,26 +98,14 @@
             "en_name": "Ashlock",
             "jp_name": "アッシュロック"
         },
-        "char_478_kirara": {
-            "appellation": "Kirara",
-            "kr_name": "키라라",
-            "en_name": "Kirara",
-            "jp_name": "キララ"
-        },
-        "char_369_bena": {
-            "appellation": "Bena",
-            "kr_name": "베나",
-            "en_name": "Bena",
-            "jp_name": "ベナ"
+        "char_422_aurora": {
+            "appellation": "Aurora",
+            "kr_name": "오로라",
+            "en_name": "Aurora",
+            "jp_name": "オーロラ"
         }
     },
     "four": {
-        "char_469_indigo": {
-            "appellation": "Indigo",
-            "kr_name": "인디고",
-            "en_name": "Indigo",
-            "jp_name": "インディゴ"
-        },
         "char_4004_pudd": {
             "appellation": "Pudding",
             "kr_name": "푸딩",
