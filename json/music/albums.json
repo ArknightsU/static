@@ -3,6 +3,54 @@
     "msg": "",
     "data": [
         {
+            "cid": "9390",
+            "name": "随意随意呀",
+            "coverUrl": "https://web.hycdn.cn/siren/pic/20220129/636ae99313160d7b10aa49068b732034.jpg",
+            "artistes": [
+                "塞壬唱片-MSR"
+            ]
+        },
+        {
+            "cid": "1035",
+            "name": "将进酒",
+            "coverUrl": "https://web.hycdn.cn/siren/pic/20220127/b2048415e8941106397750040a2a4299.jpg",
+            "artistes": [
+                "塞壬唱片-MSR"
+            ]
+        },
+        {
+            "cid": "4521",
+            "name": "却阑珊",
+            "coverUrl": "https://web.hycdn.cn/siren/pic/20220125/b82b5269b428a41e35fa4acf73e39640.jpg",
+            "artistes": [
+                "塞壬唱片-MSR"
+            ]
+        },
+        {
+            "cid": "0258",
+            "name": "醉飞尘",
+            "coverUrl": "https://web.hycdn.cn/siren/pic/20220125/cde9b44633077444ac76bedfa57ba6ae.jpg",
+            "artistes": [
+                "塞壬唱片-MSR"
+            ]
+        },
+        {
+            "cid": "2463",
+            "name": "Silver Lining",
+            "coverUrl": "https://web.hycdn.cn/siren/pic/20211231/cd4e8f2ff9e51e831670fba4be7ce59f.jpg",
+            "artistes": [
+                "塞壬唱片-MSR"
+            ]
+        },
+        {
+            "cid": "5117",
+            "name": "Melting White",
+            "coverUrl": "https://web.hycdn.cn/siren/pic/20211223/4cbdb415f878ad1e16b0010b404a1a1f.jpg",
+            "artistes": [
+                "塞壬唱片-MSR"
+            ]
+        },
+        {
             "cid": "7786",
             "name": "Heal the World",
             "coverUrl": "https://web.hycdn.cn/siren/pic/20211220/e0e71e2da7a92134a054834863684ab5.jpg",

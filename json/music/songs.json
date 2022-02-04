@@ -4,6 +4,70 @@
     "data": {
         "list": [
             {
+                "cid": "461183",
+                "name": "随意随意呀(Instrumental)",
+                "albumCid": "9390",
+                "artists": [
+                    "塞壬唱片-MSR"
+                ]
+            },
+            {
+                "cid": "048736",
+                "name": "随意随意呀",
+                "albumCid": "9390",
+                "artists": [
+                    "塞壬唱片-MSR"
+                ]
+            },
+            {
+                "cid": "953918",
+                "name": "将进酒",
+                "albumCid": "1035",
+                "artists": [
+                    "塞壬唱片-MSR"
+                ]
+            },
+            {
+                "cid": "697657",
+                "name": "却阑珊",
+                "albumCid": "4521",
+                "artists": [
+                    "塞壬唱片-MSR"
+                ]
+            },
+            {
+                "cid": "461184",
+                "name": "醉飞尘",
+                "albumCid": "0258",
+                "artists": [
+                    "塞壬唱片-MSR"
+                ]
+            },
+            {
+                "cid": "779429",
+                "name": "Silver Lining",
+                "albumCid": "2463",
+                "artists": [
+                    "塞壬唱片-MSR"
+                ]
+            },
+            {
+                "cid": "125000",
+                "name": "Melting White",
+                "albumCid": "5117",
+                "artists": [
+                    "塞壬唱片-MSR"
+                ]
+            },
+            {
+                "cid": "306842",
+                "name": "Melting White (Instrumental)",
+                "albumCid": "5117",
+                "artists": [
+                    "塞壬唱片-MSR"
+                ]
+            },
+            {
                 "cid": "232291",
                 "name": "Heal the World",
                 "albumCid": "7786",

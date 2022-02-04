@@ -6,12 +6,6 @@
             "en_name": "Fartooth",
             "jp_name": "ファルツース"
         },
-        "char_1013_chen2": {
-            "appellation": "Ch'en the Holungday",
-            "kr_name": "첸 더 훌롱데이",
-            "en_name": "Ch'en the Holungday",
-            "jp_name": "チェン ザ ホランデー"
-        },
         "char_479_sleach": {
             "appellation": "Saileach",
             "kr_name": "세일라흐",
@@ -30,17 +24,17 @@
             "en_name": "Gnosis",
             "jp_name": "グノーシス"
         },
-        "char_437_mizuki": {
-            "appellation": "Mizuki",
-            "kr_name": "미즈키",
-            "en_name": "Mizuki",
-            "jp_name": "みずき"
+        "char_2023_ling": {
+            "appellation": "Ling",
+            "kr_name": "링",
+            "en_name": "Ling",
+            "jp_name": "リン"
         },
-        "char_485_pallas": {
-            "appellation": "Pallas",
-            "kr_name": "팔라스",
-            "en_name": "Pallas",
-            "jp_name": "パラス"
+        "char_322_lmlee": {
+            "appellation": "Lee",
+            "kr_name": "리",
+            "en_name": "Lee",
+            "jp_name": "リー"
         },
         "char_1014_nearl2": {
             "appellation": "Nearl the Radiant Knight",
@@ -56,17 +50,17 @@
             "en_name": "Wild Mane",
             "jp_name": "ワイルドメーン"
         },
-        "char_421_crow": {
-            "appellation": "La Pluma",
-            "kr_name": "라 플루마",
-            "en_name": "La Pluma",
-            "jp_name": "ラ プルマ"
+        "char_476_blkngt": {
+            "appellation": "Blacknight",
+            "kr_name": "블랙 나이트",
+            "en_name": "Black Night",
+            "jp_name": "ブラックナイト"
         },
-        "char_486_takila": {
-            "appellation": "Tequila",
-            "kr_name": "데킬라",
-            "en_name": "Tequila",
-            "jp_name": "テキラ"
+        "char_1021_kroos2": {
+            "appellation": "Kroos the Keen Glint",
+            "kr_name": "크루스 더 킨 글린트",
+            "en_name": "Kroos the Keen Glint",
+            "jp_name": "クルース ザ キン グリント"
         },
         "char_489_serum": {
             "appellation": "Corroserum",
@@ -92,6 +86,18 @@
             "en_name": "HoneyBerry",
             "jp_name": "ハニーベリー"
         },
+        "char_512_aprot": {
+            "appellation": "Shalem",
+            "kr_name": "샤렘",
+            "en_name": "Shalem",
+            "jp_name": "シャーレム"
+        },
+        "char_4025_aprot2": {
+            "appellation": "Shalem",
+            "kr_name": "샤렘",
+            "en_name": "Shalem",
+            "jp_name": "シャーレム"
+        },
         "char_431_ashlok": {
             "appellation": "Ashlock",
             "kr_name": "애시락",
@@ -103,6 +109,12 @@
             "kr_name": "오로라",
             "en_name": "Aurora",
             "jp_name": "オーロラ"
+        },
+        "char_4019_ncdeer": {
+            "appellation": "Nine-Colored Deer",
+            "kr_name": "구색록",
+            "en_name": "Nine-Coloroed Deer",
+            "jp_name": "九色鹿"
         }
     },
     "four": {
