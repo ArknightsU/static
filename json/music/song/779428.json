@@ -1,0 +1,16 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "cid": "779428",
+        "name": "Eternal Flame",
+        "albumCid": "5116",
+        "sourceUrl": "https://res01.hycdn.cn/f62791d9191c702c738ff06c7d26a99c/624174FD/siren/audio/20220314/bb3fa6f24efaf63aaad76d0f6bafc0c2.mp3",
+        "lyricUrl": "https://web.hycdn.cn/siren/lyric/20220314/2e77eced9d4170c6f533f281d9305947.lrc",
+        "mvUrl": null,
+        "mvCoverUrl": null,
+        "artists": [
+            "塞壬唱片-MSR"
+        ]
+    }
+}

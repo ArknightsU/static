@@ -3,6 +3,38 @@
     "msg": "",
     "data": [
         {
+            "cid": "5116",
+            "name": "Eternal Flame",
+            "coverUrl": "https://web.hycdn.cn/siren/pic/20220314/a79347b6d2e3a57874b552699ce9ee2c.jpg",
+            "artistes": [
+                "塞壬唱片-MSR"
+            ]
+        },
+        {
+            "cid": "6674",
+            "name": "危机合约寻昼行动OST",
+            "coverUrl": "https://web.hycdn.cn/siren/pic/20220225/78ad118924912a39738aaeaf252be1a6.jpg",
+            "artistes": [
+                "塞壬唱片-MSR"
+            ]
+        },
+        {
+            "cid": "8942",
+            "name": "Прощание",
+            "coverUrl": "https://web.hycdn.cn/siren/pic/20220222/6674c37d930db8b912be663cc088e186.jpg",
+            "artistes": [
+                "塞壬唱片-MSR"
+            ]
+        },
+        {
+            "cid": "3809",
+            "name": "Spark for Dream",
+            "coverUrl": "https://web.hycdn.cn/siren/pic/20220214/93328b031be044bc1d8ecba1188f1f06.jpg",
+            "artistes": [
+                "塞壬唱片-MSR"
+            ]
+        },
+        {
             "cid": "9390",
             "name": "随意随意呀",
             "coverUrl": "https://web.hycdn.cn/siren/pic/20220129/636ae99313160d7b10aa49068b732034.jpg",

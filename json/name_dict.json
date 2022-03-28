@@ -6,17 +6,23 @@
             "en_name": "Fartooth",
             "jp_name": "ファルツース"
         },
-        "char_479_sleach": {
-            "appellation": "Saileach",
-            "kr_name": "세일라흐",
-            "en_name": "Saileach",
-            "jp_name": "セイラフ"
+        "char_300_phenxi": {
+            "appellation": "Fiammetta",
+            "kr_name": "피아메타",
+            "en_name": "Fiammetta",
+            "jp_name": "フィアメッタ"
         },
         "char_420_flamtl": {
             "appellation": "Flametail",
             "kr_name": "플레임 테일",
             "en_name": "Flametail",
             "jp_name": "フレームテール"
+        },
+        "char_377_gdglow": {
+            "appellation": "Goldenglow",
+            "kr_name": "골든글로우",
+            "en_name": "Goldenglow",
+            "jp_name": "ゴールデングロー"
         },
         "char_206_gnosis": {
             "appellation": "Gnosis",
@@ -74,12 +80,6 @@
             "en_name": "Kjera",
             "jp_name": "シェラ"
         },
-        "char_473_mberry": {
-            "appellation": "Mulberry",
-            "kr_name": "멀베리",
-            "en_name": "Mulberry",
-            "jp_name": "マルベリー"
-        },
         "char_449_glider": {
             "appellation": "Honeyberry",
             "kr_name": "허니베리",
@@ -115,6 +115,24 @@
             "kr_name": "구색록",
             "en_name": "Nine-Coloroed Deer",
             "jp_name": "九色鹿"
+        },
+        "char_492_quercu": {
+            "appellation": "Quercus",
+            "kr_name": "케르쿠스",
+            "en_name": "Quercus",
+            "jp_name": "クェールクス"
+        },
+        "char_4036_forcer": {
+            "appellation": "Enforcer",
+            "kr_name": "엔포서",
+            "en_name": "Enforce",
+            "jp_name": "エンフォーサー"
+        },
+        "char_4016_kazema": {
+            "appellation": "Kazemaru",
+            "kr_name": "카제마루",
+            "en_name": "Kazemaru",
+            "jp_name": "風丸"
         }
     },
     "four": {
@@ -123,12 +141,6 @@
             "kr_name": "푸딩",
             "en_name": "Pudding",
             "jp_name": "プリン"
-        },
-        "char_484_robrta": {
-            "appellation": "Roberta",
-            "kr_name": "로베르타",
-            "en_name": "Roberta",
-            "jp_name": "ロベルタ"
         }
     },
     "three": {},
